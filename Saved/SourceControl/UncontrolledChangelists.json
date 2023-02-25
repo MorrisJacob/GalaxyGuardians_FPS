@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jacob.morris/Documents/Unreal Projects/HelloGalaxy/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/jacob.morris/Documents/Unreal Projects/HelloGalaxy/Content/Climbing/SK_Mannequin1.uasset",
+				"/Users/jacob.morris/Documents/Unreal Projects/HelloGalaxy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
